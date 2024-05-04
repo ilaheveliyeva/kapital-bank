@@ -1,0 +1,49 @@
+.top-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 25px;
+}
+
+.ul-top-header{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 15px;
+    
+}
+
+.bottom-header ul{
+    margin-top: 35px;
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+
+}
+
+.ul-top-header a {
+    text-decoration: none;
+    color: #2e313189;
+}
+
+.bottom-header ul a {
+    text-decoration: none;
+}
+
+.ul-top-header .bold-one {
+    color: black;
+}
+
+.bottom-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.birbank-btn {
+    width: 100px;
+    height: 32px;
+    align-items: center;
+    margin-top: 15px;
+}
